@@ -1,2 +1,2 @@
 # Python-Projects
-My python learning journey through my python projects
+This repository will showcase my python learning journey through various projects
